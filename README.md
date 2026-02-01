@@ -47,28 +47,28 @@
     <h2>Our team</h2>
     <ul>
         <li>
-            <img src="../Homework_1/Images/img.jpg" width="320" alt="Image of Mark Guerrero">
+            <img src="./Homework_1/Images/img.jpg" width="320" alt="Image of Mark Guerrero">
         </li>
     </ul>
     <h3>Mark Guerrero</h3>
     <p>Product Designer</p>
      <ul>
         <li>
-            <img src="../Homework_1/Images/img_1.jpg" width="320" alt="Image of Tom Ford">
+            <img src="./Homework_1/Images/img_1.jpg" width="320" alt="Image of Tom Ford">
         </li>
     </ul>
     <h3>Tom Ford</h3>
     <p>Frontend Developer</p>
     <ul>
         <li>
-            <img src="../Homework_1/Images/img_2.jpg" width="320" alt="Image of Camila Garcia">
+            <img src="./Homework_1/Images/img_2.jpg" width="320" alt="Image of Camila Garcia">
         </li>
     </ul>
     <h3>Camila Garcia</h3>
     <p>Marketing</p>
     <ul>
         <li>
-            <img src="../Homework_1/Images/img_3.jpg" width="320" alt="Image of Daniel Willson">
+            <img src="./Homework_1/Images/img_3.jpg" width="320" alt="Image of Daniel Willson">
         </li>
     </ul>
     <h3>Daniel Willson</h3>
