@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Effective Solutions</title>
 </head>
 <body>
     <header><a href="">Webstudio</a></header>
