@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>Effective Solutions</title>
 </head>
-
 <body>
     <header>
         <nav>
@@ -33,7 +31,6 @@
     <ul>
         <li>
             <h3>Punctuality</h3>
-
         </li>
     </ul>
     <p>Bring the key message to the brand's audience for the best price within the shortest possible time.</p>
@@ -57,7 +54,7 @@
     </ul>
     <h3>Mark Guerrero</h3>
     <p>Product Designer</p>
-    , <ul>
+     <ul>
         <li>
             <img src="../Homework_1/Images/img_1.jpg" width="320" alt="Image of Tom Ford">
         </li>
@@ -78,7 +75,6 @@
     </ul>
     <h3>Daniel Willson</h3>
     <p>UI Designer</p>
-
     <footer>
         <a href="./Index.html">Webstudio</a>
         <p>Increase the flow of customers and sales for your business with digital marketing & growth solutions</p>
