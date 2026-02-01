@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Effective Solutions</title>
+<title>Effective Solutions</title>
 </head>
 <body>
     <header>
